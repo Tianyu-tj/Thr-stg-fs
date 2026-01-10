@@ -4,11 +4,11 @@
 
 **sensitivity.R:** Sensitivity analysis for hyperparameters (gamma_1 and gamma_2) for the three-stage feature selection framework
 
-**nshdu_update.R:** Implement feature selection framework to the Opioid-Use dataset (Final_NO_OUD.csv/Final_OUD.csv)
+**nshdu_update.R:** Implement three-stage feature selection framework to the Opioid-Use dataset (Final_NO_OUD.csv/Final_OUD.csv)
 
-**obs.R:** Implement three-stage feature selection for EOL-EHPC dataset (obs.csv)
+**obs.R:** Implement three-stage feature selection to the EOL-EHPC dataset (obs.csv)
 
-**dia.R:** Implement three-stage feature selection for diabetes dataset (diab.csv)
+**dia.R:** Implement three-stage feature selection to the diabetes dataset (diab.csv)
 
 
 
