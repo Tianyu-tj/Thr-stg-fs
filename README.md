@@ -1,5 +1,3 @@
-Guidance for the Reproducibility Reports
-
 **Data Files**:
 
 **Synthetic Data**: 
